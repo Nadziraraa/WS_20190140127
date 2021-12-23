@@ -1,0 +1,9 @@
+ws\c\mahasiswa7\tugas\assesment\Application.class
+ws\c\mahasiswa7\tugas\assesment\DatamahasiswatiJpaController.class
+ws\c\mahasiswa7\tugas\assesment\exceptions\IllegalOrphanException.class
+ws\c\mahasiswa7\tugas\assesment\exceptions\NonexistentEntityException.class
+ws\c\mahasiswa7\tugas\assesment\exceptions\PreexistingEntityException.class
+ws\c\mahasiswa7\tugas\assesment\DataController.class
+ws\c\mahasiswa7\tugas\assesment\Datamahasiswati.class
+ws\c\mahasiswa7\tugas\assesment\Datamahasiswa.class
+ws\c\mahasiswa7\tugas\assesment\Datamahasiswati_.class
